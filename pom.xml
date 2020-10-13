@@ -24,7 +24,7 @@
     </build>
     <properties>
         <springversion>4.3.9.RELEASE</springversion>
-        <junitversion>4.12</junitversion>
+        <junitversion>4.13.1</junitversion>
         <logbackversion>1.1.1</logbackversion>
         <mysqlversion>5.1.37</mysqlversion>
         <mybatisversion>3.4.1</mybatisversion>
