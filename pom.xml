@@ -27,7 +27,7 @@
         <junitversion>4.12</junitversion>
         <logbackversion>1.1.1</logbackversion>
         <mysqlversion>5.1.37</mysqlversion>
-        <mybatisversion>3.4.1</mybatisversion>
+        <mybatisversion>3.5.6</mybatisversion>
         <mybatisspingversion>1.3.0</mybatisspingversion>
         <c3p0version>0.9.1.2</c3p0version>
         <jstlversion>1.2</jstlversion>
