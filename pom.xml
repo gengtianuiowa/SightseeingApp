@@ -23,7 +23,7 @@
         </plugins>
     </build>
     <properties>
-        <springversion>4.3.9.RELEASE</springversion>
+        <springversion>5.3.19</springversion>
         <junitversion>4.12</junitversion>
         <logbackversion>1.1.1</logbackversion>
         <mysqlversion>5.1.37</mysqlversion>
